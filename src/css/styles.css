@@ -52,8 +52,8 @@
   border-radius: 8px;
 
   display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+  align-items: start;
+  justify-content: start;
   flex-direction: column;
   gap: 16px;
 }
